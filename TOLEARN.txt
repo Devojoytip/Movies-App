@@ -1,0 +1,3 @@
+... spread operator
+map in js
+filter in arrays
